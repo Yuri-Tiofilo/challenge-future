@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "desafioFuturo",
+    "slug": "desafioFuturo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#F1F1F1",
+      "resizeMode": "cover"
+    }
+  },
+  "name": "desafioFuturo"
+}
